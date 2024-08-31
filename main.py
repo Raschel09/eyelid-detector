@@ -44,7 +44,7 @@ class FacialLandMarksPosition:
     right_eye_start_index, right_eye_end_index = face_utils.FACIAL_LANDMARKS_IDXS["right_eye"]
 
     """
-    AAAAA
+    AAAAAbb
     """
    
 facial_landmarks_predictor = './models/68_face_landmarks_predictor.dat'
