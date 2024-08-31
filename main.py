@@ -17,6 +17,8 @@ import math
 import threading
 import tensorflow as tf
 
+#aa
+
 num_cores = 4
 
 num_CPU = 1
